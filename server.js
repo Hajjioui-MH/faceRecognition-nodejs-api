@@ -22,7 +22,7 @@ app.use(cors())
 
 //HTTP Request---------------------------------------------------
 app.get('/', (req,res)=>{
-	res.json('hello');
+	res.send('it is working!');
 })
 //==Sign In===
 app.post('/signin', signIn.handleSignIn(knex,bcrypt) )
