@@ -1,2 +1,4 @@
 # faceRecognition-nodejs-api
-you can find the frontend part here -->
+## you can find front-end part in the link below  👇 :
+
+https://github.com/Hajjioui-MH/face-recognition
